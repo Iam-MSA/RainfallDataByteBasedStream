@@ -53,9 +53,6 @@ The project has the following file structure:
 
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to submit a pull request. Please ensure that your code follows the Java coding standards and includes appropriate documentation.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
